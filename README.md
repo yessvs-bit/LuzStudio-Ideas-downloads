@@ -4,7 +4,16 @@ Repositorio público destinado únicamente a los instaladores oficiales de **Luz
 
 ## Versión actual
 
-- [Descargar LuzStudio Ideas 1.0.0 para Android](android/LuzStudio-Ideas-1.0.0.apk)
-- SHA-256: `96707C7A3AA4A0780A7F1EEB2CA49C9C9A7ACA17F16679C828E1027D231F9D83`
+- [Descargar LuzStudio Ideas 1.0.2 para Android](android/LuzStudio-Ideas-1.0.2.apk)
+- SHA-256: `726C46EB825FBE5A74EEB52F490E3661E59ABB232F90FB79A47F7B763DF6EB6C`
 
 Es un APK firmado que incluye la app y sus datos se mantienen sólo en el dispositivo. En Android, si es la primera vez que instalás una APK descargada, habilitá temporalmente **Instalar apps desconocidas** para el navegador o gestor de archivos que usaste.
+
+## Novedades de 1.0.2
+
+- Tamaño de letra aplicado también al campo de escritura.
+- Ícono propio de LuzStudio Ideas.
+- Confirmación de eliminación con fondo opaco.
+- Exportación con elección de destino, estado de guardado y acceso a Archivos.
+
+Instalar como actualización de la versión anterior, sin desinstalar, para conservar los apuntes locales.
