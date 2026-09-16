@@ -4,10 +4,16 @@ Repositorio público destinado únicamente a los instaladores oficiales de **Luz
 
 ## Versión actual
 
-- [Descargar LuzStudio Ideas 1.0.5 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.5/LuzStudio-Ideas-1.0.5.apk)
-- SHA-256: `E89317BEDD0859D6808C7C0EED70EA917C9D54E0E300CF321E46BD8F37A6F95B`
+- [Descargar LuzStudio Ideas 1.0.6 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.6/LuzStudio-Ideas-1.0.6.apk)
+- SHA-256: `75389B9824F9C2E991AA1D687EDE4381EAEEE7A47676C68509D1E95CD5C307C6`
 
 Es un APK firmado que incluye la app y sus datos se mantienen sólo en el dispositivo. En Android, si es la primera vez que instalás una APK descargada, habilitá temporalmente **Instalar apps desconocidas** para el navegador o gestor de archivos que usaste.
+
+## Novedades de 1.0.6
+
+- Nuevo ícono transparente: tarjetas violeta, fucsia y coral con una ruta ascendente y estrella cálida.
+- Iconos renovados en Android, PWA, favicon y Apple Touch, sin fondo blanco.
+- Mantiene intactas las ideas locales, el respaldo completo y la sincronización opcional por carpeta de 1.0.5.
 
 ## Novedades de 1.0.5
 
@@ -24,7 +30,8 @@ Cada versión tiene su propio release, novedades y APK firmado. [Ver todo el his
 
 | Versión | Novedades principales | Release |
 | --- | --- | --- |
-| 1.0.5 · actual | Estados de sincronización y respaldo completo separados | [1.0.5](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.5) |
+| 1.0.6 · actual | Nueva identidad visual transparente para Ideas | [1.0.6](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.6) |
+| 1.0.5 | Estados de sincronización y respaldo completo separados | [1.0.5](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.5) |
 | 1.0.4 | Recuperación de respaldos y prueba opcional de carpeta sincronizada | [1.0.4](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.4) |
 | 1.0.3 | Bandejas separadas y control de actualizaciones | [1.0.3](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.3) |
 | 1.0.2 | Ícono propio, diálogo opaco y exportación con destino y avisos | [1.0.2](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.2) |
