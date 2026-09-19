@@ -1,6 +1,6 @@
 # LuzStudio Ideas - LSI
 
-Nació como una app para tomar nota de ideas sueltas, escenas, personajes o cualquier ocurrencia que tuviera para mi novela. A falta de una app totalmente gratis que me permitiera sincronizarla directamente con mi programa habitual, le pedí a la IA que haga ambos. LSI para las notas rápidas, y LSE (LuzStudio Escaleta) para planificar mi proyecto. Se pueden usar por separado y ninguno es esencial para el otro, pero juntos, son oro.
+Nació como una app de móvil para tomar nota de ideas sueltas, escenas, personajes o cualquier ocurrencia que tuviera para mi novela. A falta de una app totalmente gratis que me permitiera sincronizarla directamente con mi programa habitual, le pedí a la IA que haga ambos. LSI para las notas rápidas, y LSE (LuzStudio Escaleta) para planificar mi proyecto. Se pueden usar por separado y ninguno es esencial para el otro, pero juntos, son oro.
 Lo tienen disponible también para descargarlo en: [https://github.com/yessvs-bit/LuzStudio-Escaleta-downloads]
 
 Mención especial a la aplicación Havora que la utilizo para todo lo demás: [https://www.instagram.com/havora.wb/]
