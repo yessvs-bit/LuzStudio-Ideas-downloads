@@ -10,10 +10,16 @@ Mención especial a la aplicación Havora que la utilizo para todo lo demás: [h
 Repositorio público destinado únicamente a los instaladores oficiales de **LuzStudio Ideas para Android**. El código fuente permanece privado y las ideas nunca se suben a este repositorio.
 ## Versión actual
 
-- [Descargar LuzStudio Ideas 1.0.6 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.6/LuzStudio-Ideas-1.0.6.apk)
-- SHA-256: `75389B9824F9C2E991AA1D687EDE4381EAEEE7A47676C68509D1E95CD5C307C6`
+- [Descargar LuzStudio Ideas 1.0.7 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.7/LuzStudio-Ideas-1.0.7.apk)
+- SHA-256: `0146A1C3BB34240382CA67C1CBA2C3BB144476FECE1BD4A730B27D33449528F7`
 
 Es un APK firmado que incluye la app y sus datos se mantienen sólo en el dispositivo. En Android, si es la primera vez que instalás una APK descargada, habilitá temporalmente **Instalar apps desconocidas** para el navegador o gestor de archivos que usaste.
+
+## Novedades de 1.0.7
+
+- La app comprueba actualizaciones usando la versión real del APK instalado, evitando avisos falsos.
+- **Importar respaldo** abre el selector nativo de Android y permite elegir archivos `.lseideas` aunque el gestor no reconozca su tipo.
+- El respaldo se valida completo antes de incorporar ideas; cancelar o elegir un archivo inválido no modifica los datos locales.
 
 ## Novedades de 1.0.6
 
@@ -36,7 +42,8 @@ Cada versión tiene su propio release, novedades y APK firmado. [Ver todo el his
 
 | Versión | Novedades principales | Release |
 | --- | --- | --- |
-| 1.0.6 · actual | Nueva identidad visual transparente para Ideas | [1.0.6](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.6) |
+| 1.0.7 · actual | Versión instalada correcta e importación nativa de respaldos | [1.0.7](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.7) |
+| 1.0.6 | Nueva identidad visual transparente para Ideas | [1.0.6](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.6) |
 | 1.0.5 | Estados de sincronización y respaldo completo separados | [1.0.5](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.5) |
 | 1.0.4 | Recuperación de respaldos y prueba opcional de carpeta sincronizada | [1.0.4](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.4) |
 | 1.0.3 | Bandejas separadas y control de actualizaciones | [1.0.3](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.3) |
