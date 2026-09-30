@@ -10,10 +10,16 @@ Mención especial a la aplicación Havora que la utilizo para todo lo demás: [h
 Repositorio público destinado únicamente a los instaladores oficiales de **LuzStudio Ideas para Android**. El código fuente permanece privado y las ideas nunca se suben a este repositorio.
 ## Versión actual
 
-- [Descargar LuzStudio Ideas 1.0.7 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.7/LuzStudio-Ideas-1.0.7.apk)
-- SHA-256: `0146A1C3BB34240382CA67C1CBA2C3BB144476FECE1BD4A730B27D33449528F7`
+- [Descargar LuzStudio Ideas 1.0.9 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.9/LuzStudio-Ideas-1.0.9.apk)
+- SHA-256: `282CBB13B76A6366949684AAE5A0D03B20ED9C4EE7744BCC1056961C6C9B29B5`
 
 Es un APK firmado que incluye la app y sus datos se mantienen sólo en el dispositivo. En Android, si es la primera vez que instalás una APK descargada, habilitá temporalmente **Instalar apps desconocidas** para el navegador o gestor de archivos que usaste.
+
+## Novedades de 1.0.9
+
+- Ícono centrado, con tamaño corregido para mostrar la estrella completa y fondo adaptativo blanco sólido.
+- Conserva la importación nativa de respaldos y la detección de versión instalada de 1.0.7. No reincorpora compartir desde la web.
+- Código Android 10: permite actualizar también el APK experimental local 1.0.8 (código 9), que no se publicó. Se omite esa numeración para evitar confusiones.
 
 ## Novedades de 1.0.7
 
@@ -42,7 +48,8 @@ Cada versión tiene su propio release, novedades y APK firmado. [Ver todo el his
 
 | Versión | Novedades principales | Release |
 | --- | --- | --- |
-| 1.0.7 · actual | Versión instalada correcta e importación nativa de respaldos | [1.0.7](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.7) |
+| 1.0.9 · actual | Ícono centrado con fondo blanco; conserva importación nativa | [1.0.9](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.9) |
+| 1.0.7 | Versión instalada correcta e importación nativa de respaldos | [1.0.7](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.7) |
 | 1.0.6 | Nueva identidad visual transparente para Ideas | [1.0.6](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.6) |
 | 1.0.5 | Estados de sincronización y respaldo completo separados | [1.0.5](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.5) |
 | 1.0.4 | Recuperación de respaldos y prueba opcional de carpeta sincronizada | [1.0.4](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.4) |
