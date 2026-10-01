@@ -10,10 +10,16 @@ Mención especial a la aplicación Havora que la utilizo para todo lo demás: [h
 Repositorio público destinado únicamente a los instaladores oficiales de **LuzStudio Ideas para Android**. El código fuente permanece privado y las ideas nunca se suben a este repositorio.
 ## Versión actual
 
-- [Descargar LuzStudio Ideas 1.0.11 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.11/LuzStudio-Ideas-1.0.11.apk)
-- SHA-256: `1458BEE234F312FAF9CC0ABE4B4AC306841176C868088E27CF8CAD4169DC961B`
+- [Descargar LuzStudio Ideas 1.0.15 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.15/LuzStudio-Ideas-1.0.15.apk)
+- SHA-256: `8125D9F1845A8D309C26C2E3D0221C8A4A570ECC3E5A7681CB09B7ECEED76509`
 
 Es un APK firmado que incluye la app y sus datos se mantienen sólo en el dispositivo. En Android, si es la primera vez que instalás una APK descargada, habilitá temporalmente **Instalar apps desconocidas** para el navegador o gestor de archivos que usaste.
+
+## Novedades de 1.0.15
+
+- Vuelve al intercambio manual por respaldos `.lseideas`, que mantiene las ideas únicamente en el teléfono hasta que se decide exportarlas.
+- Conserva la importación nativa Android, la comprobación de actualizaciones y el ícono centrado con fondo blanco.
+- Código Android 16. Instalá como actualización, sin desinstalar, para conservar las ideas locales.
 
 ## Novedades de 1.0.11
 
@@ -57,7 +63,8 @@ Cada versión tiene su propio release, novedades y APK firmado. [Ver todo el his
 
 | Versión | Novedades principales | Release |
 | --- | --- | --- |
-| 1.0.11 · actual | LSI incorpora únicamente ideas activas de LSE | [1.0.11](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.11) |
+| 1.0.15 · actual | Regreso al intercambio manual; conserva importación Android e ícono blanco | [1.0.15](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.15) |
+| 1.0.11 | LSI incorpora únicamente ideas activas de LSE | [1.0.11](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.11) |
 | 1.0.10 | Sincronización bidireccional por carpeta y conservación de conflictos | [1.0.10](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.10) |
 | 1.0.9 | Ícono centrado con fondo blanco; conserva importación nativa | [1.0.9](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.9) |
 | 1.0.7 | Versión instalada correcta e importación nativa de respaldos | [1.0.7](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.7) |
