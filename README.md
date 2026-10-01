@@ -10,10 +10,19 @@ Mención especial a la aplicación Havora que la utilizo para todo lo demás: [h
 Repositorio público destinado únicamente a los instaladores oficiales de **LuzStudio Ideas para Android**. El código fuente permanece privado y las ideas nunca se suben a este repositorio.
 ## Versión actual
 
-- [Descargar LuzStudio Ideas 1.0.9 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.9/LuzStudio-Ideas-1.0.9.apk)
-- SHA-256: `282CBB13B76A6366949684AAE5A0D03B20ED9C4EE7744BCC1056961C6C9B29B5`
+- [Descargar LuzStudio Ideas 1.0.11 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.11/LuzStudio-Ideas-1.0.11.apk)
+- SHA-256: `1458BEE234F312FAF9CC0ABE4B4AC306841176C868088E27CF8CAD4169DC961B`
 
 Es un APK firmado que incluye la app y sus datos se mantienen sólo en el dispositivo. En Android, si es la primera vez que instalás una APK descargada, habilitá temporalmente **Instalar apps desconocidas** para el navegador o gestor de archivos que usaste.
+
+## Novedades de 1.0.11
+
+- Las ideas archivadas de LSE se descartan al importar un respaldo o leer la carpeta compartida; LSI sólo incorpora las activas.
+- Código Android 12. Instalá como actualización, sin desinstalar, para conservar las ideas locales.
+
+## Novedades de 1.0.10
+
+- Sincronización bidireccional por carpeta con revisiones inmutables y conservación de ambas ediciones cuando hay un conflicto.
 
 ## Novedades de 1.0.9
 
@@ -48,7 +57,9 @@ Cada versión tiene su propio release, novedades y APK firmado. [Ver todo el his
 
 | Versión | Novedades principales | Release |
 | --- | --- | --- |
-| 1.0.9 · actual | Ícono centrado con fondo blanco; conserva importación nativa | [1.0.9](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.9) |
+| 1.0.11 · actual | LSI incorpora únicamente ideas activas de LSE | [1.0.11](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.11) |
+| 1.0.10 | Sincronización bidireccional por carpeta y conservación de conflictos | [1.0.10](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.10) |
+| 1.0.9 | Ícono centrado con fondo blanco; conserva importación nativa | [1.0.9](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.9) |
 | 1.0.7 | Versión instalada correcta e importación nativa de respaldos | [1.0.7](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.7) |
 | 1.0.6 | Nueva identidad visual transparente para Ideas | [1.0.6](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.6) |
 | 1.0.5 | Estados de sincronización y respaldo completo separados | [1.0.5](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.5) |
