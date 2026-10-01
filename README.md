@@ -10,10 +10,16 @@ Mención especial a la aplicación Havora que la utilizo para todo lo demás: [h
 Repositorio público destinado únicamente a los instaladores oficiales de **LuzStudio Ideas para Android**. El código fuente permanece privado y las ideas nunca se suben a este repositorio.
 ## Versión actual
 
-- [Descargar LuzStudio Ideas 1.0.16 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.16/LuzStudio-Ideas-1.0.16.apk)
-- SHA-256: `24F0643B2747252B837E902995D3A04E8EA0D454D6ED655320EA87035A5BEDD1`
+- [Descargar LuzStudio Ideas 1.0.17 para Android](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/download/v1.0.17/LuzStudio-Ideas-1.0.17.apk)
+- SHA-256: `BE09A0F3F5EA056C54E989C4D3DCB47A4D15C22D9603FBF70A76C75908AB0813`
 
 Es un APK firmado que incluye la app y sus datos se mantienen sólo en el dispositivo. En Android, si es la primera vez que instalás una APK descargada, habilitá temporalmente **Instalar apps desconocidas** para el navegador o gestor de archivos que usaste.
+
+## Novedades de 1.0.17
+
+- El bloque superior del editor tiene una altura fija: sus avisos no pueden desplazar el texto que estás escribiendo.
+- El indicador de guardado ya no muestra una hora cambiante; queda como **Guardado local** y sólo cambia el ícono mientras escribe o informa un error.
+- Código Android 18.
 
 ## Novedades de 1.0.16
 
@@ -69,7 +75,8 @@ Cada versión tiene su propio release, novedades y APK firmado. [Ver todo el his
 
 | Versión | Novedades principales | Release |
 | --- | --- | --- |
-| 1.0.16 · actual | Editor estable al escribir; sincronización de carpeta sólo manual | [1.0.16](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.16) |
+| 1.0.17 · actual | Encabezado del editor con altura fija; sin desplazamiento al guardar | [1.0.17](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.17) |
+| 1.0.16 | Editor estable al escribir; sincronización de carpeta sólo manual | [1.0.16](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.16) |
 | 1.0.15 | Regreso al intercambio manual; conserva importación Android e ícono blanco | [1.0.15](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.15) |
 | 1.0.11 | LSI incorpora únicamente ideas activas de LSE | [1.0.11](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.11) |
 | 1.0.10 | Sincronización bidireccional por carpeta y conservación de conflictos | [1.0.10](https://github.com/yessvs-bit/LuzStudio-Ideas-downloads/releases/tag/v1.0.10) |
